@@ -2,4 +2,4 @@
  
 LMB - click RMB - restart
 
-exe - Lesson-2\dist\main\main.exe
+exe - dist\main\main.exe
