@@ -1,4 +1,5 @@
-# PyLesson2
+# PyLesson2 
+Game tictactoe
  
 LMB - click RMB - restart
 
