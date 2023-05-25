@@ -1,4 +1,4 @@
-# PyLesson2 - Game tictactoe
+Game tictactoe
 Giveaway game.
 The one who collects a line of 5 will lose
  
